@@ -4,7 +4,7 @@
 
 This is content for a trailhead exercise.
 
-I'm just testing this out.
+I'm just testing this out. I've changed this line.
 
-Thank you.
+Thank you. And changed this one, too.
 
